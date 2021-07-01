@@ -74,7 +74,7 @@ export default function Nav ({ user }) {
         <AppBar position="static">
           <Toolbar>
             <Typography component={Link} to='/' className={classes.title} color='inherit' variant="h6" noWrap>
-              APCS CAMP Forum
+              Simple Forum
             </Typography>
             {
               (user) ? (
