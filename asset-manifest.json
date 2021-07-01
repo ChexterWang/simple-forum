@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/simple-forum/static/css/main.8b3c3608.chunk.css",
+    "main.js": "/simple-forum/static/js/main.da8c9531.chunk.js",
+    "main.js.map": "/simple-forum/static/js/main.da8c9531.chunk.js.map",
+    "runtime-main.js": "/simple-forum/static/js/runtime-main.f1c87fac.js",
+    "runtime-main.js.map": "/simple-forum/static/js/runtime-main.f1c87fac.js.map",
+    "static/css/2.ba8a8a05.chunk.css": "/simple-forum/static/css/2.ba8a8a05.chunk.css",
+    "static/js/2.23c51961.chunk.js": "/simple-forum/static/js/2.23c51961.chunk.js",
+    "static/js/2.23c51961.chunk.js.map": "/simple-forum/static/js/2.23c51961.chunk.js.map",
+    "static/js/3.a681d160.chunk.js": "/simple-forum/static/js/3.a681d160.chunk.js",
+    "static/js/3.a681d160.chunk.js.map": "/simple-forum/static/js/3.a681d160.chunk.js.map",
+    "index.html": "/simple-forum/index.html",
+    "static/css/2.ba8a8a05.chunk.css.map": "/simple-forum/static/css/2.ba8a8a05.chunk.css.map",
+    "static/css/main.8b3c3608.chunk.css.map": "/simple-forum/static/css/main.8b3c3608.chunk.css.map",
+    "static/js/2.23c51961.chunk.js.LICENSE.txt": "/simple-forum/static/js/2.23c51961.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1c87fac.js",
+    "static/css/2.ba8a8a05.chunk.css",
+    "static/js/2.23c51961.chunk.js",
+    "static/css/main.8b3c3608.chunk.css",
+    "static/js/main.da8c9531.chunk.js"
+  ]
+}
