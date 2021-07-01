@@ -1,0 +1,22 @@
+pre {
+  overflow: auto;
+  max-height: 300px;
+}
+.ant-tooltip {
+  z-index: 1370 !important;
+}
+.ant-tooltip-inner {
+  background-color: #333 !important;
+}
+.site-tag-plus {
+  background: #fff;
+  border: 1px dashed #000;
+}
+.edit-tag {
+  user-select: none;
+}
+.tag-input {
+  width: 78px !important;
+  margin-right: 8px !important;
+  vertical-align: top;
+}
