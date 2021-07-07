@@ -3,7 +3,7 @@ import axios from 'axios';
 import { Post, PostItem, User } from '../../models';
 import { Storage } from '../storage';
 
-const api_url = 'https://d6037d45aa16.ap.ngrok.io/api';
+const api_url = 'https://b1850f4d795e.ap.ngrok.io/api';
 
 function getAuthHeader() {
   return {
